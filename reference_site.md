@@ -9,3 +9,6 @@
 
 ### PostgreSQL range type
 [range type](https://www.postgresql.org/docs/current/rangetypes.html)
+
+### MySQL 쿼리 최적화
+[mysql document](https://dev.mysql.com/doc/refman/8.0/en/optimization.html) 
