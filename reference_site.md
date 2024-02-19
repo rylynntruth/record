@@ -12,3 +12,6 @@
 
 ### MySQL 쿼리 최적화
 [mysql document](https://dev.mysql.com/doc/refman/8.0/en/optimization.html) 
+
+### MySQL Explain 요소 설명
+[mysql explain](https://yozm.wishket.com/magazine/detail/2260/)
