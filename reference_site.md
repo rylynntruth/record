@@ -15,3 +15,6 @@
 
 ### MySQL Explain 요소 설명
 [mysql explain](https://yozm.wishket.com/magazine/detail/2260/)
+
+### MySQL 쿼리 실행 순서
+https://www.oreilly.com/library/view/high-performance-mysql/9780596101718/ch04.html
