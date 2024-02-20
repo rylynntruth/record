@@ -8,7 +8,8 @@
 [mysql_mvcc](https://lefred.be/content/a-graph-a-day-keeps-the-doctor-away-mysql-history-list-length/)
 
 ### PostgreSQL range type
-[range type](https://www.postgresql.org/docs/current/rangetypes.html)
+[range type](https://www.postgresql.org/docs/current/rangetypes.html)   
+[자료형 모음](https://blog.naver.com/PostView.naver?blogId=slykid&logNo=222561289473&parentCategoryNo=&categoryNo=154&viewDate=&isShowPopularPosts=true&from=search)
 
 ### MySQL 쿼리 최적화
 [mysql document](https://dev.mysql.com/doc/refman/8.0/en/optimization.html) 
