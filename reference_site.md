@@ -18,3 +18,6 @@
 
 ### MySQL 쿼리 실행 순서
 https://www.oreilly.com/library/view/high-performance-mysql/9780596101718/ch04.html
+
+### MySQL vs PostgreSQL 비교
+https://techblog.woowahan.com/6550/
