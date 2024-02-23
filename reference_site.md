@@ -23,3 +23,6 @@ https://www.oreilly.com/library/view/high-performance-mysql/9780596101718/ch04.h
 
 ### MySQL vs PostgreSQL 비교
 https://techblog.woowahan.com/6550/
+
+### PostgreSQL Document index
+https://www.postgresql.org/docs/16/index.html
