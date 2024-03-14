@@ -30,3 +30,6 @@ https://www.postgresql.org/docs/16/index.html
 
 ### kafka
 https://d2.naver.com/helloworld/9581727 (네이버 주문 트랜잭션)
+
+### bruno
+https://github.com/usebruno/bruno
