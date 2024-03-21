@@ -33,3 +33,6 @@ https://d2.naver.com/helloworld/9581727 (네이버 주문 트랜잭션)
 
 ### bruno
 https://github.com/usebruno/bruno
+
+### 분산 로깅
+https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165547&searchData=&subIndex=
