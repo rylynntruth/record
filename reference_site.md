@@ -42,3 +42,6 @@ https://www.wireframe-examples.com/
 
 ### SheetJS
 [sheetjs](https://docs.sheetjs.com/docs/)
+
+### effective typescript
+[effective_typescript](https://effectivetypescript.com/2022/02/25/gentips-4-display/)
