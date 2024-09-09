@@ -45,3 +45,6 @@ https://www.wireframe-examples.com/
 
 ### effective typescript
 [effective_typescript](https://effectivetypescript.com/2022/02/25/gentips-4-display/)
+
+### NextJS 구성 참고
+https://restato.github.io/posts/nextjs-start-copy/
