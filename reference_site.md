@@ -50,3 +50,10 @@ https://www.wireframe-examples.com/
 https://restato.github.io/posts/nextjs-start-copy/
 https://github.com/vercel/next.js/tree/canary/examples
 https://github.com/pancakeswap/pancake-frontend
+https://github.com/calcom/cal.com
+https://github.com/supabase/supabase
+https://github.com/formbricks/formbricks
+https://github.com/unkeyed/unkey
+https://github.com/baptisteArno/typebot.io
+https://github.com/dubinc/dub
+https://github.com/openstatusHQ/openstatus
