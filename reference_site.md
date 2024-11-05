@@ -61,3 +61,6 @@ https://github.com/openstatusHQ/openstatus
 ### pdf viewer 코드 분석
 https://github.com/SimplePDF/simplepdf-embed   
 https://github.com/wojtekmaj/react-pdf   
+
+1. pdf 모듈 정리
+2. nextjs statement 관리 참조
