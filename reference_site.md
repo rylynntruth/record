@@ -57,3 +57,6 @@ https://github.com/unkeyed/unkey
 https://github.com/baptisteArno/typebot.io
 https://github.com/dubinc/dub
 https://github.com/openstatusHQ/openstatus
+
+### pdf viewer 코드 분석
+https://github.com/SimplePDF/simplepdf-embed 
