@@ -47,16 +47,17 @@ https://www.wireframe-examples.com/
 [effective_typescript](https://effectivetypescript.com/2022/02/25/gentips-4-display/)
 
 ### NextJS 구성 참고
-https://restato.github.io/posts/nextjs-start-copy/
-https://github.com/vercel/next.js/tree/canary/examples
-https://github.com/pancakeswap/pancake-frontend
-https://github.com/calcom/cal.com
-https://github.com/supabase/supabase
-https://github.com/formbricks/formbricks
-https://github.com/unkeyed/unkey
-https://github.com/baptisteArno/typebot.io
-https://github.com/dubinc/dub
-https://github.com/openstatusHQ/openstatus
+https://restato.github.io/posts/nextjs-start-copy/   
+https://github.com/vercel/next.js/tree/canary/examples   
+https://github.com/pancakeswap/pancake-frontend   
+https://github.com/calcom/cal.com   
+https://github.com/supabase/supabase   
+https://github.com/formbricks/formbricks   
+https://github.com/unkeyed/unkey   
+https://github.com/baptisteArno/typebot.io   
+https://github.com/dubinc/dub   
+https://github.com/openstatusHQ/openstatus   
 
 ### pdf viewer 코드 분석
-https://github.com/SimplePDF/simplepdf-embed 
+https://github.com/SimplePDF/simplepdf-embed   
+https://github.com/wojtekmaj/react-pdf   
