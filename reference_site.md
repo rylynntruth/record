@@ -64,3 +64,6 @@ https://github.com/wojtekmaj/react-pdf
 
 1. pdf 모듈 정리
 2. nextjs statement 관리 참조
+
+### nextjs 성능 개선
+https://velog.io/@superlipbalm/improving-react-interaction-times-by-4x
