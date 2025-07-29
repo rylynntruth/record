@@ -67,3 +67,8 @@ https://github.com/wojtekmaj/react-pdf
 
 ### nextjs 성능 개선
 https://velog.io/@superlipbalm/improving-react-interaction-times-by-4x
+
+### 책 리스트
+https://github.com/gmoral/Books/blob/master/Test-Driven%20Development%20By%20Example%20(Kent%20Beck).pdf
+https://github.com/GunterMueller/Books-3/blob/master/Growing%20Object%20Oriented%20Software%20Guided%20by%20Tests.pdf
+https://github.com/rahff/Software_book/blob/main/Dependency%20Injection%20Principles.pdf
